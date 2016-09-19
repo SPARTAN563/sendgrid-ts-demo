@@ -1,0 +1,17 @@
+{
+  "name": "sendgrid-ts-demo",
+  "version": "1.0.0",
+  "description": "A quick demo of using SendGrid's v3 API with TypeScript",
+  "main": "index.js",
+  "dependencies": {
+    "sendgrid": "^4.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  },
+  "scripts": {
+    "test": "tsc"
+  },
+  "author": "Benjamin Pannell <admin@sierrasoftworks.com>",
+  "license": "MIT"
+}
