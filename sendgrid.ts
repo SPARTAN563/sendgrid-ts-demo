@@ -26,5 +26,6 @@ expression whose type lacks a call signature. (2349)".
 
 // When using wildcard import, this causes the error "Cannot invoke an expression whose type lacks a call signature."
 const sendGrid = SendGrid("");
+console.log(sendGrid); // When using the require or wildcard import, this is a SendGridInstance
 
 export default sendGrid;
