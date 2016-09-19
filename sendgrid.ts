@@ -20,7 +20,7 @@ expression whose type lacks a call signature. (2349)".
 */
 
 // Uncomment this line to cause the error.
-// import * as Sendgrid from 'sendgrid';
+// import * as SendGrid from 'sendgrid';
 
 
 
