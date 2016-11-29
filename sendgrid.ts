@@ -1,4 +1,4 @@
-import {SendGrid} from "sendgrid";
+import * as SendGrid from "sendgrid";
 
 const sendGrid = SendGrid("");
 
